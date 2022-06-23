@@ -1,5 +1,5 @@
 <h1>
-  Simple Guessing Game
+  Simple Guessing Game<br>
   <img alt="Build" src="https://img.shields.io/github/workflow/status/willpinha/simple-guessing-game/Rust?style=flat-square&logo=github">
   <img alt="Release" src="https://img.shields.io/github/v/release/willpinha/simple-guessing-game?include_prereleases&style=flat-square">
   <img alt="License" src="https://img.shields.io/github/license/willpinha/simple-guessing-game?style=flat-square">
