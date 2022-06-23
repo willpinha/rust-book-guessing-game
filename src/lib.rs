@@ -8,6 +8,7 @@ pub struct Game {
 
 impl Game {
     pub fn new(min: u32, max: u32) -> Game {
+        println!("Guess the number!");
         let random = Game::generate_random_number(min, max);
         Game { random_number: random }
     }
