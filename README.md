@@ -7,4 +7,4 @@
 
 > A guessing game implemented following the Rust Book 
 
-This software is entirely based on the [Rust Book's guide](https://doc.rust-lang.org/stable/book/ch20-00-final-project-a-web-server.html) to creating a Guessing Game.
+This software is entirely based on the [Rust Book's guide](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) to creating a Guessing Game.
